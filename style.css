@@ -1,12 +1,54 @@
 .display-4 {
   text-align: center;
+  color: white;
 }
 
 .lead {
   text-align: center;
+  color: white;
 }
 
-#jumbotronpic {
-  background-color: black;
-  
+#firstimage {
+  padding-left: 100px;
+  position: relative;
+  left: 100px;
+  width: 250px;
+  bottom: 10px;
+}
+
+#textone {
+  position: relative;
+  bottom: 85px;
+}
+
+#secondimage {
+  padding-left: 100px;
+  position: relative;
+  left: 115px;
+  width: 250px;
+  bottom: 35px;
+  width: 200px;
+}
+
+#thirdimage {
+  padding-left: 100px;
+  position: relative;
+  left: 150px;
+  width: 250px;
+  bottom: 20px;
+  width: 168px;
+}
+
+body {
+  font-family: georgia;
+}
+
+.jumbotron {
+  background-image: url("https://i.pinimg.com/originals/56/ea/a5/56eaa5eeb54e9d2fa1aec2ed80bb13b3.jpg");
+  background-size: 1300px;
+  background-position: center;
+}
+
+#portfolio {
+margin-top: 5px;
 }
