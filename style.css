@@ -52,3 +52,31 @@ body {
 #portfolio {
 margin-top: 5px;
 }
+
+.pagefooter {
+  background-color: #5B5A5B;
+  color: white;
+}
+
+#footertext {
+}
+
+.twitter {
+  padding-left: 500px;
+}
+
+.vimeo {
+  padding-left: 550px;
+  position: relative;
+  bottom: -30px;
+}
+
+.linkedin {
+  padding-left: 590px;
+  top: 60px;
+}
+
+.gmail {
+  padding-left: 640px;
+  position: relative;
+}
