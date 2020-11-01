@@ -1,11 +1,16 @@
 .display-4 {
   text-align: center;
   color: white;
+  text-transform: uppercase;
 }
 
 .lead {
   text-align: center;
   color: white;
+  font-size: 25px;
+  position: relative;
+  bottom: 10px;
+  font-style: italic;
 }
 
 #firstimage {
@@ -61,22 +66,27 @@ margin-top: 5px;
 #footertext {
 }
 
-.twitter {
-  padding-left: 500px;
-}
-
-.vimeo {
-  padding-left: 550px;
+.fa-envelope {
   position: relative;
-  bottom: -30px;
+  left: 520px;
 }
 
-.linkedin {
-  padding-left: 590px;
-  top: 60px;
-}
-
-.gmail {
-  padding-left: 640px;
+.fa-twitter {
   position: relative;
+  left: 540px;
+}
+
+.fa-vimeo {
+  position: relative;
+  left: 560px;
+}
+
+.fa-linkedin {
+  position: relative;
+  left: 580px;
+}
+
+.fa-github {
+  position: relative;
+  left: 600px;
 }
