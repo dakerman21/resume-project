@@ -2,15 +2,21 @@
   text-align: center;
   color: white;
   text-transform: uppercase;
+  position: relative;
+  font-size: 35px;
+  left: 30px;
+  letter-spacing: 3px;
 }
 
 .lead {
   text-align: center;
   color: white;
-  font-size: 25px;
+  font-size: 30px;
   position: relative;
   bottom: 10px;
   font-style: italic;
+  letter-spacing: 10px;
+  text-decoration: overline;
 }
 
 #firstimage {
@@ -89,4 +95,20 @@ margin-top: 5px;
 .fa-github {
   position: relative;
   left: 600px;
+}
+
+
+#Photography {
+  padding-bottom: 2.5px;
+}
+
+#headshot {
+  position: relative;
+  left: 540px;
+  bottom: 115px;
+}
+
+#text {
+  position: relative;
+  bottom: 75px;
 }
