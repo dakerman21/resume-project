@@ -7,6 +7,8 @@ p{
 }
 #headshot {
   width: 100%;
+  position: relative;
+  left: 500px;
 }
   }
 
@@ -19,6 +21,8 @@ p {
   }
 #headshot {
   width: 100%;
+  position: relative;
+  left: 500px;
   }
 }
 
