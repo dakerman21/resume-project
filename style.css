@@ -5,6 +5,9 @@ p{
 .col-md-4 {
   width: 100%;
 }
+.navbar {
+  overflow: hidden;
+}
 #headshot {
   width: 200px;
   position: fixed;
@@ -40,6 +43,9 @@ p {
 }
 .col-md-4 {
   width: 100%;
+  }
+  .navbar {
+    overflow: hidden;
   }
   #headshot {
     width: 200px;
