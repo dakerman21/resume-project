@@ -2,13 +2,19 @@
 p{
   font-size: 14px;
 }
+.col-md-4 {
+  width: 50%;
+}
   }
 
 @media (max-width: 768px) {
 p {
   font-size: 16px;
 }
+.col-md-4 {
+  width: 50%;
   }
+}
 
 @media (min-width: 992px) {
 
@@ -95,6 +101,8 @@ margin-top: 5px;
 .pagefooter {
   background-color: #5B5A5B;
   color: white;
+  position: relative;
+  top: 75px;
 }
 
 #footertext {
@@ -103,26 +111,31 @@ margin-top: 5px;
 .fa-envelope {
   position: relative;
   left: 440px;
+  top: 75px;
 }
 
 .fa-twitter {
   position: relative;
   left: 460px;
+  top: 75px;
 }
 
 .fa-vimeo {
   position: relative;
   left: 480px;
+  top: 75px;
 }
 
 .fa-linkedin {
   position: relative;
   left: 500px;
+  top: 75px;
 }
 
 .fa-github {
   position: relative;
   left: 520px;
+  top: 75px;
 }
 
 
