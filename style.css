@@ -1,3 +1,23 @@
+@media (max-width: 576px) {
+p{
+  font-size: 14px;
+}
+  }
+
+@media (max-width: 768px) {
+p {
+  font-size: 16px;
+}
+  }
+
+@media (min-width: 992px) {
+
+  }
+
+@media (min-width: 1200px) {
+
+  }
+
 .display-4 {
   text-align: center;
   color: white;
@@ -82,32 +102,27 @@ margin-top: 5px;
 
 .fa-envelope {
   position: relative;
-  left: 520px;
-  top: 75px;
+  left: 440px;
 }
 
 .fa-twitter {
   position: relative;
-  left: 540px;
-  top: 75px;
+  left: 460px;
 }
 
 .fa-vimeo {
   position: relative;
-  left: 560px;
-  top: 75px;
+  left: 480px;
 }
 
 .fa-linkedin {
   position: relative;
-  left: 580px;
-  top: 75px;
+  left: 500px;
 }
 
 .fa-github {
   position: relative;
-  left: 600px;
-  top: 75px;
+  left: 520px;
 }
 
 
