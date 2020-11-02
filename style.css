@@ -50,6 +50,14 @@
   width: 168px;
 }
 
+#terpthonpic {
+  position: relative;
+  width: 175px;
+  left: 150px;
+  top: 25px;
+
+}
+
 body {
   font-family: georgia;
 }
@@ -100,6 +108,8 @@ margin-top: 5px;
 
 #Photography {
   padding-bottom: 2.5px;
+  position: relative;
+  top: 21px;
 }
 
 #headshot {
@@ -111,4 +121,19 @@ margin-top: 5px;
 #text {
   position: relative;
   bottom: 75px;
+}
+
+#Terpthon {
+  position: relative;
+  bottom: 5px;
+}
+
+#terptext {
+  position: relative;
+  bottom: 45px;
+}
+
+#urchair {
+  position: relative;
+  bottom: 55px;
 }
